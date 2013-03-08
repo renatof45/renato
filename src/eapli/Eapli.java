@@ -15,6 +15,6 @@ public class Eapli {
      */
     public static void main(String[] args) {
        System.out.println("te");
-        System.out.println("ola");
+        System.out.println("o");
     }
 }
